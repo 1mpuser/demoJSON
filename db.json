@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "acoounts": [
+    { "login": "Alex", "password": 3228, "arrWithTodos": [] },
+    { "login": "Tony", "password": "Champ shit only", "arrWithTodos": [] }
+  ]
 }
