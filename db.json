@@ -14,5 +14,15 @@
   "accounts": [
     { "login": "Alex", "password": 3228, "arrWithTodos": [] },
     { "login": "Tony", "password": "Champ shit only", "arrWithTodos": [] }
+  ],
+  "todos": [
+    {"text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti unde quod vel rerum ullam provident! Laudantium, consectetur cum voluptate optio est quos dolores aliquid nemo omnis, vero itaque excepturi inventore"},
+        {"text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti unde quod vel rerum ullam provident! Laudantium, consectetur cum voluptate optio est quos dolores aliquid nemo omnis, vero itaque excepturi inventore"},
+        {"text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti unde quod vel rerum ullam provident! Laudantium, consectetur cum voluptate optio est quos dolores aliquid nemo omnis, vero itaque excepturi inventore"},
+        {"text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti unde quod vel rerum ullam provident! Laudantium, consectetur cum voluptate optio est quos dolores aliquid nemo omnis, vero itaque excepturi inventore"},
+        {"text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti unde quod vel rerum ullam provident! Laudantium, consectetur cum voluptate optio est quos dolores aliquid nemo omnis, vero itaque excepturi inventore"},
+        {"text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti unde quod vel rerum ullam provident! Laudantium, consectetur cum voluptate optio est quos dolores aliquid nemo omnis, vero itaque excepturi inventore"},
+    
+    
   ]
 }
