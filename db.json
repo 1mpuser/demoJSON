@@ -21,6 +21,11 @@
         {"text" : "Sit esse anim ad sit exercitation exercitation.", "completed" : true},
         {"text" : "Aliquip tempor non tempor exercitation nulla consequat laborum amet laboris sit proident reprehenderit.", "completed" : true},
         {"text" : "Nisi nulla labore labore in ipsum ad.", "completed" : false},
-        {"text" : "Fugiat exercitation nisi proident elit culpa est tempor duis labore cupidatat.", "completed" : false}
+        {"text" : "Fugiat exercitation nisi proident elit culpa est tempor duis labore cupidatat.", "completed" : false},
+        {"text" : "Sunt enim ad cupidatat sunt nulla incididunt laborum excepteur magna fugiat ad quis.", "completed" : true},
+        {"text" : "Sint exercitation ad tempor occaecat ad anim.", "completed" : false},
+        {"text" : "Ad esse irure enim nulla mollit irure.", "completed" : false},
+        {"text" : "Fugiat excepteur nisi adipisicing ut id irure nisi sint.", "completed" : false},
+        
   ]
 }
