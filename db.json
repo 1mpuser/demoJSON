@@ -1,31 +1,81 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "accounts": [
-    { "login": "Alex", "password": 3228, "arrWithTodos": [] },
-    { "login": "Tony", "password": "Champ shit only", "arrWithTodos": [] }
-  ],
-  "todos": [
-    {"text" : "Duis exercitation do dolor ipsum ex Lorem.", "completed" : true},
-        {"text" : "Velit ea minim sit officia nostrud voluptate fugiat quis non voluptate dolore.", "completed" : false},
-        {"text" : "Sit esse anim ad sit exercitation exercitation.", "completed" : true},
-        {"text" : "Aliquip tempor non tempor exercitation nulla consequat laborum amet laboris sit proident reprehenderit.", "completed" : true},
-        {"text" : "Nisi nulla labore labore in ipsum ad.", "completed" : false},
-        {"text" : "Fugiat exercitation nisi proident elit culpa est tempor duis labore cupidatat.", "completed" : false},
-        {"text" : "Sunt enim ad cupidatat sunt nulla incididunt laborum excepteur magna fugiat ad quis.", "completed" : true},
-        {"text" : "Sint exercitation ad tempor occaecat ad anim.", "completed" : false},
-        {"text" : "Ad esse irure enim nulla mollit irure.", "completed" : false},
-        {"text" : "Fugiat excepteur nisi adipisicing ut id irure nisi sint.", "completed" : false},
-        
-  ]
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"accounts": [{
+			"login": "Alex",
+			"password": 3228,
+			"arrWithTodos": []
+		},
+		{
+			"login": "Tony",
+			"password": "Champ shit only",
+			"arrWithTodos": []
+		}
+	],
+	"todos": [{
+			"text": "Duis exercitation do dolor ipsum ex Lorem.",
+			"completed": true
+		},
+		{
+			"text": "Velit ea minim sit officia nostrud voluptate fugiat quis non voluptate dolore.",
+			"completed": false
+		},
+		{
+			"text": "Sit esse anim ad sit exercitation exercitation.",
+			"completed": true
+		},
+		{
+			"text": "Aliquip tempor non tempor exercitation nulla consequat laborum amet laboris sit proident reprehenderit.",
+			"completed": true
+		},
+		{
+			"text": "Nisi nulla labore labore in ipsum ad.",
+			"completed": false
+		},
+		{
+			"text": "Fugiat exercitation nisi proident elit culpa est tempor duis labore cupidatat.",
+			"completed": false
+		},
+		{
+			"text": "Sunt enim ad cupidatat sunt nulla incididunt laborum excepteur magna fugiat ad quis.",
+			"completed": true
+		},
+		{
+			"text": "Sint exercitation ad tempor occaecat ad anim.",
+			"completed": false
+		},
+		{
+			"text": "Ad esse irure enim nulla mollit irure.",
+			"completed": false
+		},
+		{
+			"text": "Fugiat excepteur nisi adipisicing ut id irure nisi sint.",
+			"completed": false
+		}
+	]
 }
